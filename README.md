@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 *Project Link* -https://salmon-sand-0a792a900.2.azurestaticapps.net
 
-*Project demo video link* -
+*Project demo video link* - https://youtu.be/2M5UuADMCkI
 
 ## Azure technologies used for Project
 
